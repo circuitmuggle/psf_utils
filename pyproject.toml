@@ -37,7 +37,7 @@ show-psf = "psf_utils.show:show_signals"
 repository = "https://github.com/kenkundert/psf_utils"
 
 [build-system]
-requires = ["flit_core >=2,<4"]
+requires = ["flit_core >=2"]
 build-backend = "flit_core.buildapi"
 
 [tool.ruff]

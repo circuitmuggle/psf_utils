@@ -225,6 +225,13 @@ Latest development release
 | Released: 2025-12-03
 
 
+1.11 (2026-09-08)
+'''''''''''''''''
+- New fast vectorized parser.
+  Contributed by Gaofeng Fan (circuitmuggle).
+- Support signals with names containing brackets.
+
+
 1.10 (2025-07-30)
 '''''''''''''''''
 - Properly recognize real numbers with exponents but without decimal points.
